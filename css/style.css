@@ -17,6 +17,7 @@ body {
     width: 320px;
     border-radius: 10px;
     overflow: hidden;
+    animation: rollIn 2s;
 }
 
 
@@ -36,6 +37,7 @@ body {
 .name {
     padding-bottom: 6px;
     font-size: 26px;
+    animation: pulse 2s linear infinite;
 }
 
 .office {
